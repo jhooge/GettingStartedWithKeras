@@ -1,0 +1,7 @@
+*.npz
+*.npy
+.ipynb_checkpoints/
+data/
+models/
+tf_logs/
+__pycache__/
